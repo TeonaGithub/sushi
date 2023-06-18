@@ -1,0 +1,12 @@
+body { background-color: #080e0e;
+    background-image: url(image\ 138.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    mix-blend-mode: exclusion;
+    width: 1415px;
+    height: 960px;}
+*{box-sizing: border-box;}
+.boxall{display: flex;} 
+
+#img1 {position: absolute; width:60px; height:73px; margin-top: 36px; margin-left: 36px; }
+#div2{position: absolute; width: 322px;height: 133px; margin-top: 782px; margin-left: 36px; padding: 0px; }
