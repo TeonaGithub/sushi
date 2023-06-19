@@ -1,0 +1,9 @@
+body { background-color: #080e0e;
+    background-image: url(Desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1415px;
+    height: 960px;}
+
+#img1 {position: absolute; width:60px; height:73px; margin-top: 36px; margin-left: 36px; }
+#div2{position: absolute; width: 322px;height: 133px; margin-top: 782px; margin-left: 36px; padding: 0px; }
